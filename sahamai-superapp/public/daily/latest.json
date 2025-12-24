@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "runAt": null,
+  "count": 0,
+  "results": [],
+  "note": "Placeholder. This file will be updated by GitHub Actions (or any scheduler) by calling /api/batch and committing the result here."
+}

@@ -1,0 +1,15 @@
+{
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "NVDA",
+    "BRK.B",
+    "JPM",
+    "V",
+    "MA",
+    "UNH"
+  ],
+  "delayMs": 150
+}
